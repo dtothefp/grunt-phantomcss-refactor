@@ -397,9 +397,9 @@ nav a:hover {
 }
 
 .header-container {
-    background: black;
+    background: red;
 }
 
 .header-container h1, body h1 {
-    color: purple!important;
+    color: blue!important;
 }
